@@ -1,4 +1,17 @@
 
+1.6.0 / 2017-02-08
+==================
+
+New functionality
+-----------------
+
+  * Access mode API
+
+Other changes
+-------------
+
+  * Fix listing direction test.
+
 1.5.0 / 2016-11-19
 ==================
 
